@@ -9,6 +9,6 @@ A mathematical game using python programming language.
 
 If you want it with a full explanation watch the video given below 👇
 
-[video link - ](https://youtu.be/p9UKZ7Oeq7U)
+[video link](https://youtu.be/p9UKZ7Oeq7U)
 
 I hope you will enjoy this project.
