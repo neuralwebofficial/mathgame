@@ -7,6 +7,6 @@ A mathematical game using python programming language.
 
 3. The only module we use in this project is the random module.
 
-If you want it with a full explanation watch this [video](https://youtu.be/VBpzYkk7kTw) .
+If you want it with a full explanation watch this [video](https://youtu.be/l0lByXtEnh0) .
 
 I hope you will enjoy this project.
